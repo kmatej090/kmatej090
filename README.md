@@ -14,8 +14,6 @@
   I strive to create impactful applications that drive innovation and solve real-world challenges.
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <img align="right" width="40%" alt="Coding" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 <div align="center">
